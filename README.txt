@@ -59,5 +59,6 @@ Interrupts allow a microcontroller to respond immediately to important events wi
 Interrupts reduce CPU workload by eliminating the need for continuous polling. Instead of running loops to check for inputs, the processor can remain idle or execute other tasks, only responding when an interrupt occurs. This saves power and improves overall system performance.
 
 
-
+WOKWI PROJECT LINK:
+https://wokwi.com/projects/424425676868027393
 
